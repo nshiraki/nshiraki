@@ -1,9 +1,18 @@
 ### Hi there 👋
 I am an Android engineer. 
 
-### My skills
-<img alt="My skills" src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,github,idea,vscode&perline=12" />
+### Mian skills
+<p align="left"> 
+  <img src="https://img.shields.io/badge/-Android-A4C639.svg?logo=android&style=plastic">
+  <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=plastic">
+  <img src="https://img.shields.io/badge/-Kotlin-0095D5.svg?logo=kotlin&style=plastic">
+</p>
 
+### Sub skills
+<p align="left"> 
+  <img src="https://img.shields.io/badge/-Unity-000000.svg?logo=unity&style=plastic">
+  <img src="https://img.shields.io/badge/-Flutter-02569B.svg?logo=flutter&style=plastic">
+</p>
 
 ## Status
 <p align="left"> 
